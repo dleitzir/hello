@@ -3,6 +3,8 @@
 import datetime
 import os
 
+
+#test
 def do_magic():
     now = datetime.datetime.now()
     return "Hello ! {0}".format(now)
